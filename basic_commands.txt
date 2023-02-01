@@ -1,0 +1,9 @@
+pwd - print working directory, to see where you are, if you create file it willl appear in that directory
+ls -a - lists all files, including hidden in current directory
+mkdir newFolder - to create folder
+cd newFolder - to change directory
+nano - text editor
+echo "Your text" > youfilename.tx - will create fille with provided text
+rm - remove file
+
+end of file
